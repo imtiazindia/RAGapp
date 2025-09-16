@@ -1,0 +1,10 @@
+rag-app/
+├── main.py                 # Main Streamlit application
+├── config.py               # Configuration and constants
+├── document_processor.py   # Document loading and processing
+├── embedding_manager.py    # Embedding and vector store management
+├── rag_engine.py          # RAG query processing
+├── ui_components.py        # UI components and layout
+├── requirements.txt        # Dependencies
+├── .env.example           # Environment variables template
+└── README.md              # Setup instructions
