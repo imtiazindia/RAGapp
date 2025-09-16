@@ -3,7 +3,7 @@ import os
 import tempfile
 from typing import List
 from langchain.schema import Document
-from langchain.document_loaders import (
+from langchain_community.document_loaders import (
     PyPDFLoader,
     Docx2txtLoader,
     UnstructuredPowerPointLoader,
